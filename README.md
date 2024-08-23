@@ -292,28 +292,61 @@ To further understand the flexibility of the Bootstrap grid system, let's experi
 - [ ] You can add custom styles in `styles.css` to override or enhance Bootstrap's default styles. For example:
 
 ```css
-body {
-  font-family: Arial, sans-serif;
-  background-color: sandybrown;
-}
+  body {
+    font-family: Arial, sans-serif;
+    background-color: sandybrown;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
 
-.navbar-brand {
-  font-weight: bold;
-}
-
-.card {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s;
-}
-
-.card:hover {
-  transform: scale(1.05);
-}
+/* makes it so all cards are all the same height */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .col-md-3, .col-sm-6 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px; /* Space between cards */
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Ensures card takes up full height */
+  }
+  
+  .card-body {
+    flex-grow: 1; /* Allows the body to fill available space */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Ensures even spacing */
+  }
 ```
 
 **Explanation:**
 
-- Adds custom styles to modify the appearance of the body, cards, and navbar.
+- Added styling to the navbar and hover properties to the cards.
+- Used `flexbox` to make all the cards the same height - [Flexbox Documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox).
 
 ##
 

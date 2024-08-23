@@ -351,7 +351,7 @@ To further understand the flexibility of the Bootstrap grid system, let's experi
 
 **Great job! You've successfully created a webpage layout using the Bootstrap grid system and responsive design principles.** 
 
-# Conclusion
+# Conclusion 📄
 
 In this project, you learned how to use Bootstrap to create a responsive and visually appealing webpage. By leveraging Bootstrap's grid system, you built a well-structured layout that seamlessly resizes across different devices, incorporating components like navbars and cards for a polished finish.
 

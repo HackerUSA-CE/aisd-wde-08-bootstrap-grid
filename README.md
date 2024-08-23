@@ -1,4 +1,3 @@
-
 # Building with Bootstrap's Grid System
 
 ![Screenshot of the finished webpage](assets//complete.png)

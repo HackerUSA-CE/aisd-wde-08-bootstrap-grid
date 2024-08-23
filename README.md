@@ -365,7 +365,7 @@ This hands-on experience with Bootstrap will help you design and develop more ad
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-wde-08-bootstrap-grid/solution) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-wde-08-bootstrap-grid/tree/solution) (link not shown).
 
 
 ---

@@ -347,6 +347,9 @@ To further understand the flexibility of the Bootstrap grid system, let's experi
 - Added styling to the navbar and hover properties to the cards.
 - Used `flexbox` to make all the cards the same height - [Flexbox Documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox).
 
+## 10. **Commit and Push to Github**
+- [ ] Commit and push your work to Github.
+
 ##
 
 **Great job! You've successfully created a webpage layout using the Bootstrap grid system and responsive design principles.** 

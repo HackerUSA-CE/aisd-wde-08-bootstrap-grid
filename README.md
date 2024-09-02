@@ -4,7 +4,7 @@
 
 ## Description 📄
 
-In this project, you will learn to build a simple webpage using Bootstrap's Grid System. You will start by setting up the HTML boilerplate, then include the Bootstrap CDN to utilize its grid system. Next, you'll add a responsive navbar, create a grid of cards to display CodeVoyage for our travel Company "CodeVoyage", and finally, add some custom styling.
+In this lab, you will apply their knowledge of the Bootstrap grid system to create a responsive product showcase section for a fictional travel website. The goal is to practice using Bootstrap's grid classes, breakpoints, and responsive design features to create a layout that adapts seamlessly to different screen sizes.
 
 ## Expected Project Structure 🏗️
 

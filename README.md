@@ -4,7 +4,7 @@
 
 ## Description 📄
 
-In this lab, you will apply their knowledge of the Bootstrap grid system to create a responsive product showcase section for a fictional travel website. The goal is to practice using Bootstrap's grid classes, breakpoints, and responsive design features to create a layout that adapts seamlessly to different screen sizes.
+In this lab, you will apply your knowledge of the Bootstrap grid system to create a responsive product showcase section for a fictional travel website. The goal is to practice using Bootstrap's grid classes, breakpoints, and responsive design features to create a layout that adapts seamlessly to different screen sizes.
 
 ## Expected Project Structure 🏗️
 

@@ -124,7 +124,7 @@ Your `<head>` section should now look like this:
 ## 6. **Create the Grid of Cards**
 The grid system is the foundation of layout design in Bootstrap and is based on a 12-column layout.
 
-- [ ] Beneath the hero section, Add the following code to your `index.html`:
+- [ ] Beneath the hero section, add the following code to your `index.html`:
 
 ```html
 <div class="container my-5">
@@ -183,10 +183,10 @@ The grid system is the foundation of layout design in Bootstrap and is based on 
 - For more details on using Bootstrap cards, refer to the [Bootstrap Card Documentation](https://getbootstrap.com/docs/4.0/layout/grid/).
 
 ## 7. **Adjust the Column Width of the Cards**
-Now let's explore how we can adjust the number of columns each card spans. You can change the column width by modifying the Bootstrap column classes.
+Explore how we can adjust the number of columns each card spans. You can change the column width by modifying the Bootstrap column classes.
 
 - [ ] Remove the `Italy` destination card
-- [ ]  Modify the column classes in the grid of the `Yosemite` and `Beach` cards to have each card span 6 columns on medium screens and 12 columns on smaller screens:
+- [ ] Modify the column classes in the grid of the `Yosemite` and `Beach` cards to have each card span 6 columns on medium screens and 12 columns on smaller screens:
 - [ ] Try to resixe your browser window to see how the cards respond
 
 ```html
@@ -224,10 +224,10 @@ Now let's explore how we can adjust the number of columns each card spans. You c
 -   The `col-sm-12` class makes each card take up the full width of the row on smaller screens.
 
 ## 8. **Experiment with Different Column Sizes**
-To further understand the flexibility of the Bootstrap grid system, let's experiment with different column sizes.
+To further understand the flexibility of the Bootstrap grid system, try to experiment with different column sizes.
 
 - [ ] Add the `Italy` destination card and the new `Paris` card listed below
--   [ ]  Try changing the column classes to `col-md-3` and `col-sm-6`:
+- [ ] Try changing the column classes to `col-md-3` and `col-sm-6`:
 
 ```html
 <div class="container my-5">
